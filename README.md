@@ -10,6 +10,7 @@
 * właściciele hoteli,
 * właściciele restauracji,
 
+
 ### Grupa użytkowników
 * klienci restauracji, hoteli,
 * interesanci kierujący się do urzędów,
@@ -21,12 +22,15 @@
 * parkowanie samochodu,
 * wygodne pozostawienie pojazdu,
 * bezpieczeństwo pozostawienia pojazdu,
+* wygodne przedłużanie czasu postoju
+* łatwiejsza i szybsza weryfikacja przez Straż Miejską
 
 ### Odnoszone korzyści, materialne i niematerialne
 1. Korzyści materialne:
     * przyciągnięcie klientów
 2. Korzyści niematerialne:
     * pomoc ludziom niepełnosprawnym, lub chorym
+    * większy komfort korzystania z restauracji, robienia zakupów bez obaw, że bilet wygaśnie 
 
 ### Porównanie z instniejącymi rozwiązaniami
 Spis firm, które udało mi się znaleźć:
