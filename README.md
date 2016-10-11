@@ -37,7 +37,27 @@ Spis firm, które udało mi się znaleźć:
 * http://www.projekt-parking.com/obsluga-parkingow.html
 * http://obslugaparkingow.pl/
 
-Porównanie się opierniczy na dniach, ew. przed zajęciami :)
+| ObslugaParkingow.pl | | |
+| ------------------- | --- | --- |
+| bilans miejsc postojowych | | |
+| wyznaczanie obszaru SPP | | |
+| sporządzanie planu zagospodorawania | | |
+| ustalenie lokalizacji automatów parkingowych | | |
+| załozenia dot. oznakowania uzupełniającego | | |
+| propozycje rodzajów oraz wysokości stawek opłat, okresu ich pobierania, a także koncepcje systemu pobierania opłat i organizacji kontroli | | |
+| analiza ekonomiczna| | |
+| projekty niezbędnej dokumentacji (wzór uchwały rady miasta, regulamin SPP) | | |
+| projektowanie organizacji ruchu - oznakowanie, oświetlenei pionowe oraz poziome | | |
+| w przypadku koneiczności odnowienia oznakowania poziomego, pracownicy Projekt Parking przeprowadzają malowanie jezdni i miejsc postojowych | | |
+| parkomaty napędzane energią słoneczną, bez konieczności wykonywania przyłączy energetycznych | | |
+| możliwość płatności przez telefon komórkowy| | |
+| prowadzenie inspekcji i dokumentowanie wykroczeń parkingowych | | |
+| SPP - prowadzenie biura obsługi | | |
+| SPP - serwis urządzeń parkingowych | | |
+| SPP - Inkaso wpływów parkingowych | | | |
+
+
+
 
 ---
 *Pozdrawiam Adam*
