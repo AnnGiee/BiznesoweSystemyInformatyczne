@@ -1,5 +1,7 @@
 # Biznesowe Systemy Informatyczne
 
+nowa zmiana
+
 ## Temat: Obsługa parkingów - identyfikacja pojazdów i zarządzanie abonentami i płatnościami
 
 ### Grupa odbiorców
